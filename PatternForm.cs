@@ -8,7 +8,7 @@ namespace stringödeviHW3
         {
             bool flag = true; int k = 0; int index;
 
-            //text ve patternin içerebileceği karakterler için
+            //text ve patternin içerebileceği karakterler için.
             string alphabettext = "ABCDEFGHIJKLMNOQPRSTUVWXYZabcdefghijklmnoqprstuvwxyz ,.";
             string alphabetpattern = "ABCDEFGHIJKLMNOQPRSTUVWXYZabcdefghijklmnoqprstuvwxyz-*";
             //kullanıcıdan text inputu istemek için
